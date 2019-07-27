@@ -1,0 +1,8 @@
+---
+layout: ''
+title: Test post
+date: 2019-07-27 19:00:00 +0000
+categories: Test
+
+---
+This is just a test post!
