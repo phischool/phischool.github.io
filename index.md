@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Here I can write something before the posts?
+phi is just born.

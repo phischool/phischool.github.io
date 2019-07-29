@@ -19,10 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   phi is collaborative philosophy. phi intent is to unify and trascend human knowledge. phi cannot be created or destroyed. phi must be transformed until singularity is revealed.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: phischool
 github_username:  phischool
-youtube_username: phi
-facebook_username: phi
 
 # Build settings
 markdown: kramdown
