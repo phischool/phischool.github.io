@@ -14,15 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: phi
-email: your-email@example.com
+email: 0.618@phi.school
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  phi is collaborative philosophy. phi intent is to unify and trascend human knowledge. phi cannot be created or destroyed. phi must be transformed until singularity is revealed.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: phischool
+github_username:  phischool
+youtube_username: phi
+facebook_username: phi
 
 # Build settings
 markdown: kramdown
